@@ -27,6 +27,7 @@ import CemaNeige
 
 # Declarations
 CtchName = 'myCatchment'
+datafile = '%s_data.csv' % (CtchName)
 
 # Load data
 data = pd.read_csv(datafile,sep=',',header='infer')
