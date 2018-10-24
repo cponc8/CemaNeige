@@ -11,9 +11,9 @@ Packages: pandas, numpy, csv and numba
 ## Data
 Synthetic data for an imaginary catchment, called "MyCatchment".
 
-*MyCatchment_CemaNeigeInfo.csv*: datafile containing CemaNeige parameters (QNBV: average annual snow accumulation [mm],AltiBand: quantiles of elevation [0, 0.25, 0.50, 0.75, 1], Z50: median altitude )
+**MyCatchment_CemaNeigeInfo.csv**: datafile containing CemaNeige parameters (QNBV: average annual snow accumulation [mm],AltiBand: quantiles of elevation [0, 0.25, 0.50, 0.75, 1], Z50: median altitude )
 
-*MyCatchment_data.csv*: Time series of Dates (Date), total precipitation (p, [mm]) and air temperature (tair, [°C])
+**MyCatchment_data.csv**: Time series of Dates (Date), total precipitation (p, [mm]) and air temperature (tair, [°C])
 
 ## Reference
 Valéry A., Andréassian, V. and Perrin, C.: "As simple as possible but not simpler": What is useful in a temperature-based snow-accounting routine? Part 2 - Sensitivity analysis of the Cemaneige snow accounting routine on 380 catchments, Journal of Hydrology, 517, 1176-1187, doi={10.1016/j.jhydrol.2014.04.058}, 2014.
