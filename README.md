@@ -6,9 +6,9 @@ Python object to run the CemaNeige snow accounting routine (Valéry et al 2014, 
 First run of the model will take longer as time is needed for compilation.
 
 ## Prerequisites
-Python3
+* Python3 software
 
-Packages: pandas, numpy, csv and numba 
+* Python3 packages: pandas, numpy, csv and numba 
 
 ## Content
 * **CemaNeige.py**: Python object to run the CemaNeige snow accounting routine.
