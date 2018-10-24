@@ -5,11 +5,14 @@ Python object to run the CemaNeige snow accounting routine (Valéry et al 2014, 
 
 ## Prerequisites
 Python3
+
 Packages: pandas, numpy, csv and numba 
 
 ## Data
 Synthetic data for an imaginary catchment, called "MyCatchment".
+
 MyCatchment_CemaNeigeInfo.csv: datafile containing CemaNeige parameters (QNBV: average annual snow accumulation [mm],AltiBand: quantiles of elevation [0, 0.25, 0.50, 0.75, 1], Z50: median altitude )
+
 MyCatchment_data.csv: 
 
 ## Reference
