@@ -1,4 +1,4 @@
-# Hydrological-tools
+# CemaNeige
 
 ## Overview
 Python object to run the CemaNeige snow accounting routine (Valéry et al 2014, see reference)
